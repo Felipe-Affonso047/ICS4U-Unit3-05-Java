@@ -20,7 +20,7 @@ public class Airplane {
     *
     * @param newSpeed discription.
     */
-    public void SetSpeed(final int newSpeed) {
+    public void setSpeed(final int newSpeed) {
         this.speed = newSpeed;
     }
 
